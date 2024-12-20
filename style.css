@@ -1,0 +1,96 @@
+/* Umumiy uslublar */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #e0f7e9;
+    color: #10c622;
+}
+
+/* Header uslubi */
+header {
+    background-color: #10c622;;
+    color:#e0f7e9;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Banner */
+.banner {
+    background-color: #e0f7e9;
+    color: #10c622;
+    padding: 60px;
+    text-align: center;
+}
+
+/* Kurslar */
+#courses {
+    padding: 40px;
+    text-align: center;
+}
+
+.course {
+    background-color: #10c622;
+    color: #fff;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+/* Biz haqimizda */
+#about {
+    padding: 40px;
+    text-align: center;
+}
+
+/* Bog'lanish */
+#contact {
+    padding: 40px;
+    text-align: center;
+}
+
+#contact form {
+    display: inline-block;
+    max-width: 300px;
+}
+
+#contact input, #contact button {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #10c622;
+    border-radius: 5px;
+}
+
+#contact button {
+    background-color: #10c622;
+    color: #fff;
+    border: none;
+}
+
+/* Footer */
+footer {
+    background-color: #10c622;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.9em;
+}
